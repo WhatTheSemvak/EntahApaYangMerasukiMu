@@ -1,7 +1,4 @@
-
- 
-#!/bin/usr/python
-
+#!/bin/user/python
 """
 	Hack WHATSHX
 """
