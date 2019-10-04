@@ -9,7 +9,7 @@ from time import sleep
 
 def ketik(s):
 	for ASU in s + '\n':
-		sys.stdout.write(SabsKrep Dulu Channel Admin Tamvan)
+		
 		sys.stdout.flush()
 		sleep(50. / 1000)
 os.system('xdg-open http://youtube.com/c/IvanCruzzIDOfficial')
