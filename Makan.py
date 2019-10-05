@@ -125,35 +125,6 @@ print ("""\033[1;35m
 [25/6 09.27] Rijal 🐣: 😭
 [25/6 09.28] +62 852-5670-5212: Napa km?
 [25/6 09.28] Rijal 🐣: pa da ae
-#[25/6 09.29] Sayang2 🐣: Lagian buat apaan si boy Lagian dia kerja di malang
-#[25/6 09.29] Sayang2 🐣: Gw cuman bantu doang jualan tools dia nanti klo emng serius gw yg cht
-#[25/6 09.29] Sayang2 🐣: Dia orng nya gmau nerima cht dari orang yg ga di kenal soalnya orng nya sensitif
-#[25/6 09.30] Sayang2 🐣: Psikopat
-#[25/6 09.30] +62 852-5670-5212: Ok mksh bang. Ntar aku kabarin aku lgi ngumpulin duit nya maklum lh bng msh anak skolhan
-#[25/6 09.31] Sayang2 🐣: Kls brp emng
-#[25/6 09.34] +62 852-5670-5212: Bru naik kelas 3 bang
-#[25/6 09.34] Sayang2 🐣: Oke
-#[25/6 09.34] +62 852-5670-5212: Gpp kan bang
-#[25/6 10.26] Sayang2 🐣: Iya
-#[25/6 19.45] +62 852-5670-5212: Bang saya pengen beli tpi butuh buktinya bisa gk abng kasi nmr nya tmn abng tu
-#[25/6 21.04] Sayang2 🐣: Mksudnya
-#[25/6 21.05] Sayang2 🐣: Gini gan bukti sudah saya kasih
-#[25/6 21.29] Sayang2 🐣: Yg niat Nipu siapa coba?
-#[25/6 21.32] +62 852-5670-5212: Tidak bng bukan gtu
-#[25/6 21.40] +62 852-5670-5212: Bang
-#[25/6 21.40] Sayang2 🐣: Apasi
-#[25/6 21.41] +62 852-5670-5212: Bang besok aku pastiin beli bang
-#[25/6 21.41] Sayang2 🐣: Udh males ngasih bukti Udh jelas Udh banyak yg beli di tools gua ada 60 orng
-#[25/6 21.42] +62 852-5670-5212: Ok bang tpi ada yang mau ditanya ni lgi
-#[25/6 21.43] Sayang2 🐣: Apa
-#[25/6 21.44] +62 852-5670-5212: Itu tu bisa liat semua chat orng tu gk bang sama siapa saja dia chat gtu
-#[25/6 21.44] Sayang2 🐣: Bisa lah
-#[25/6 21.44] Sayang2 🐣: Tergantung data dari dia nya
-#[25/6 21.44] Sayang2 🐣: Dia ngechat Brp orng nanti ke data
-#[25/6 21.44] +62 852-5670-5212: Ok bang btw transaksi lewat apaa bng
-#[25/6 21.45] Sayang2 🐣: Atm/pulsa
-#[25/6 21.45] Sayang2 🐣: Njir kpncet
-#[25/6 21.45] Sayang2 🐣: Sorey
 
 [27/6 10.25] +62 852-5670-5212: Oh
 """)
